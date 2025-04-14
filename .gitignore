@@ -1,0 +1,10 @@
+# .gitignore
+*.dSYM
+*.o
+mkfs
+wfs
+utils
+output.txt
+__pycache__/
+mnt/
+TEMP/
